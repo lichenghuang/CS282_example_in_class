@@ -1,0 +1,6 @@
+D:\CS282\EX01\L01_EX\L01_EX\bin\Debug\L01_EX.exe.config
+D:\CS282\EX01\L01_EX\L01_EX\bin\Debug\L01_EX.exe
+D:\CS282\EX01\L01_EX\L01_EX\bin\Debug\L01_EX.pdb
+D:\CS282\EX01\L01_EX\L01_EX\obj\Debug\L01_EX.csprojResolveAssemblyReference.cache
+D:\CS282\EX01\L01_EX\L01_EX\obj\Debug\L01_EX.exe
+D:\CS282\EX01\L01_EX\L01_EX\obj\Debug\L01_EX.pdb
